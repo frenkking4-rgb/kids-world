@@ -1,0 +1,71 @@
+{
+  "nav": {
+    "home": "Home",
+    "catalog": "Catalog",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Welcome to Kids World",
+    "headline1": "Where Every",
+    "headline2": "Child's Dream",
+    "headline3": "Comes True",
+    "subtitle": "Discover our magical collection of toys, games, and educational tools — carefully selected for curious minds in Baku and beyond.",
+    "cta_primary": "Explore Catalog",
+    "cta_secondary": "Learn More",
+    "stat1_value": "500+",
+    "stat1_label": "Products",
+    "stat2_value": "10K+",
+    "stat2_label": "Happy Kids",
+    "stat3_value": "5★",
+    "stat3_label": "Rated"
+  },
+  "catalog": {
+    "title": "Our Catalog",
+    "subtitle": "Handpicked toys and learning tools for every age",
+    "all": "All",
+    "toys": "Toys",
+    "educational": "Educational",
+    "outdoor": "Outdoor",
+    "arts": "Arts & Crafts",
+    "add_to_cart": "Add to Cart",
+    "age": "Age",
+    "years": "yrs",
+    "new": "New",
+    "sale": "Sale"
+  },
+  "about": {
+    "title": "About Kids World",
+    "subtitle": "Our Story",
+    "description1": "Founded in Baku with a simple mission: to bring joy and learning together for children across Azerbaijan. Kids World is more than a store — it's a destination where imagination flourishes.",
+    "description2": "Every product we carry is carefully vetted for safety, educational value, and fun. We believe the best childhood memories are made through play.",
+    "feature1_title": "100% Safe",
+    "feature1_desc": "All products meet international safety standards",
+    "feature2_title": "Locally Loved",
+    "feature2_desc": "Trusted by thousands of Baku families since 2015",
+    "feature3_title": "Expert Curated",
+    "feature3_desc": "Selected by child development specialists"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "We'd love to hear from you",
+    "address_label": "Visit Us",
+    "address": "28 May Street, Baku, Azerbaijan AZ1000",
+    "phone_label": "Call Us",
+    "phone": "+994 12 555 01 01",
+    "email_label": "Email Us",
+    "email": "hello@kidsworld.az",
+    "hours_label": "Working Hours",
+    "hours": "Mon–Sat: 10:00–20:00",
+    "form_name": "Your Name",
+    "form_email": "Your Email",
+    "form_message": "Your Message",
+    "form_submit": "Send Message"
+  },
+  "footer": {
+    "tagline": "Bringing joy and learning to children in Baku and beyond.",
+    "links_title": "Quick Links",
+    "social_title": "Follow Us",
+    "copyright": "© 2025 Kids World Baku. All rights reserved."
+  }
+}

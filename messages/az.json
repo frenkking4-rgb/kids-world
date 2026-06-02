@@ -1,0 +1,71 @@
+{
+  "nav": {
+    "home": "Ana Səhifə",
+    "catalog": "Kataloq",
+    "about": "Haqqımızda",
+    "contact": "Əlaqə"
+  },
+  "hero": {
+    "badge": "Kids World-a Xoş Gəldiniz",
+    "headline1": "Hər uşağın",
+    "headline2": "xəyalının",
+    "headline3": "gerçəkləşdiyi yer",
+    "subtitle": "Oyuncaqlar, oyunlar və təhsil vasitələrinin sehrli kolleksiyasını kəşf edin — Bakıdakı meraqlı ağıllar üçün diqqətlə seçilmişdir.",
+    "cta_primary": "Kataloqa Bax",
+    "cta_secondary": "Daha Çox",
+    "stat1_value": "500+",
+    "stat1_label": "Məhsul",
+    "stat2_value": "10K+",
+    "stat2_label": "Xoşbəxt Uşaq",
+    "stat3_value": "5★",
+    "stat3_label": "Reytinq"
+  },
+  "catalog": {
+    "title": "Kataloqimiz",
+    "subtitle": "Hər yaş üçün seçilmiş oyuncaqlar və öyrənmə vasitələri",
+    "all": "Hamısı",
+    "toys": "Oyuncaqlar",
+    "educational": "Təhsil",
+    "outdoor": "Açıq Hava",
+    "arts": "İncəsənət",
+    "add_to_cart": "Səbətə Əlavə Et",
+    "age": "Yaş",
+    "years": "yaş",
+    "new": "Yeni",
+    "sale": "Endirim"
+  },
+  "about": {
+    "title": "Kids World Haqqında",
+    "subtitle": "Bizim Hekayəmiz",
+    "description1": "Sadə bir missiya ilə Bakıda qurulan: Azərbaycan üzrə uşaqlar üçün sevinc və öyrənməni bir araya gətirmək. Kids World sadəcə bir mağaza deyil — xəyalın çiçəkləndiyi bir məkandır.",
+    "description2": "Daşıdığımız hər məhsul təhlükəsizlik, təhsil dəyəri və əyləncə baxımından diqqətlə yoxlanılır. İnandırıcıyıq ki, uşaqlığın ən gözəl xatirələri oyun vasitəsilə yaranır.",
+    "feature1_title": "100% Təhlükəsiz",
+    "feature1_desc": "Bütün məhsullar beynəlxalq təhlükəsizlik standartlarına uyğundur",
+    "feature2_title": "Yerli Sevilən",
+    "feature2_desc": "2015-ci ildən minlərlə Bakı ailəsinin etibarını qazanmışıq",
+    "feature3_title": "Ekspert Seçimi",
+    "feature3_desc": "Uşaq inkişafı mütəxəssisləri tərəfindən seçilmişdir"
+  },
+  "contact": {
+    "title": "Əlaqə Saxlayın",
+    "subtitle": "Sizdən eşitmək istərdik",
+    "address_label": "Ziyarət Edin",
+    "address": "28 May küçəsi, Bakı, Azərbaycan AZ1000",
+    "phone_label": "Zəng Edin",
+    "phone": "+994 12 555 01 01",
+    "email_label": "Yazın Bizə",
+    "email": "hello@kidsworld.az",
+    "hours_label": "İş Saatları",
+    "hours": "B.e–Şənbə: 10:00–20:00",
+    "form_name": "Adınız",
+    "form_email": "E-poçtunuz",
+    "form_message": "Mesajınız",
+    "form_submit": "Göndər"
+  },
+  "footer": {
+    "tagline": "Bakıda və ondan kənarda uşaqlara sevinc və bilik gətiririk.",
+    "links_title": "Sürətli Keçidlər",
+    "social_title": "Bizi İzləyin",
+    "copyright": "© 2025 Kids World Bakı. Bütün hüquqlar qorunur."
+  }
+}
